@@ -1,1 +1,1 @@
-# user-login-system
+# user-login-system This project implements a simple user login system where users enter their email and password, and the PHP script checks the database to verify their credentials using `password_verify()`. If authentication is successful, a session is created to keep the user logged in.
